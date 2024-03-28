@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:5000';
+const baseUrl = 'https://to-do-app-with-react-and-mongodb-backend-qi5x.onrender.com/';
 
 const getAllTodo = (setToDo)=> {
     axios
